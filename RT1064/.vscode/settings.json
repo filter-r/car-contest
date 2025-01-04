@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "cmath": "c",
+        "zf_common_headfile.h": "c",
+        "zf_device_camera.h": "c",
+        "zf_device_ov7725.h": "c",
+        "zf_device_mt9v03x_flexio.h": "c",
+        "wireless_uart.h": "c",
+        "display.h": "c",
+        "images.h": "c",
+        "imu660ra.h": "c",
+        "zf_common_typedef.h": "c",
+        "all_init.h": "c",
+        "isr.h": "c",
+        "uart_for_art.h": "c"
+    }
+}

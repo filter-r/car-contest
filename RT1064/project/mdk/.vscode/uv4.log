@@ -1,0 +1,14 @@
+*** Using Compiler 'V6.18', folder: 'D:\Keil\ARM\ARMCLANG\Bin'
+Build target 'nor_sdram_zf_dtcm'
+../user/src/main.c(125): warning: implicit declaration of function 'rt_thread_starup' is invalid in C99 [-Wimplicit-function-declaration]
+        rt_thread_starup(th1);
+        ^
+../user/src/main.c(126): error: expected ';' after expression
+        rt_thread_starup(th2)
+                             ^
+                             ;
+1 warning and 1 error generated.
+compiling main.c...
+".\Objects\rt1064.axf" - 1 Error(s), 1 Warning(s).
+Target not created.
+Build Time Elapsed:  00:00:01
